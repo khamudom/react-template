@@ -9,8 +9,8 @@ export const App = () => {
             <h1>
                 Hello React App {process.env.NODE_ENV} {process.env.name}
             </h1>
-            <img src={IMAGE} alt="image" height={300} />
-            <img src={LOGO} alt="image" height={300} />
+            <img src={IMAGE} alt="placeholder" height={300} />
+            <img src={LOGO} alt="logo" height={300} />
             <ClickCounter />
         </>
     );
