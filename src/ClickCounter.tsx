@@ -9,7 +9,7 @@ export const ClickCounter = () => {
                     setCount((c) => c + 1);
                 }}
             >
-                Count: {count}
+                Count {count}
             </button>
         </div>
     );
