@@ -11,12 +11,14 @@ Note: Replace `my-app` with the name of your app. <br/>
 
 # Install dependencies
 
-cd my-app yarn
+`cd my-app` 
+
+`yarn`
 
 # Run dev server
 
-yarn start
+`yarn start`
 
 # Build
 
-yarn build
+`yarn build`
